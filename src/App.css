@@ -1,6 +1,6 @@
 .sidebar {
-  background-color: black;
-  color: plum;
+  background-color: rgba(112, 111, 111, 0.644);
+  color: rgb(2, 5, 150);
   height: 100%;
   width: 100%;
   font-size: x-large;
@@ -8,6 +8,10 @@
   
 }
 
+h2{
+  color:rgb(2, 5, 150);
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
 body {
   background-color: rgba(214, 158, 74, 0.541);
 }
@@ -27,8 +31,9 @@ body {
 .astonmartin {
   background: 
   url("../public/img/Aston-Martin-car-.avif") no-repeat;
-  height: 690px;
+ 
   width: 100%;
+  object-fit: cover;
 }
 .bentley {
   background: 
@@ -42,45 +47,47 @@ body {
   height: 490px;
   width: 100%;
 }
-.astonmartin {
+.ferrari {
   background: 
-  url("../public/img/Aston-Martin-car-.avif") no-repeat;
+  url("../public/img/Ferari-car.avif") no-repeat;
+  height: 590px;
+  width: 100%;
+}
+.lamborghini {
+  background: 
+  url("../public/img/lamborghini.avif") no-repeat;
   height: 690px;
   width: 100%;
 }
-.astonmartin {
+.lotuscars {
   background: 
-  url("../public/img/Aston-Martin-car-.avif") no-repeat;
-  height: 690px;
+  url("../public/img/Lotus-car-.avif") no-repeat;
+  height: 590px;
   width: 100%;
 }
-.astonmartin {
+.maserati {
   background: 
-  url("../public/img/Aston-Martin-car-.avif") no-repeat;
-  height: 690px;
+  url("../public/img/Maserati-car-.avif") no-repeat;
+  height: 590px;
   width: 100%;
 }
-.astonmartin {
-  background: 
-  url("../public/img/Aston-Martin-car-.avif") no-repeat;
-  height: 690px;
-  width: 100%;
-}
-.mercedesbenz{
+
   background: 
   url("../public/img/mercedes.avif") no-repeat;
   height: 690px;
   width: 100%;
 }
-.astonmartin {
-  background: 
-  url("../public/img/Aston-Martin-car-.avif") no-repeat;
-  height: 690px;
+.porsche {
   width: 100%;
+  max-width: 100%;
+  object-fit: cover;
 }
-.astonmartin {
+.pro-menu-item {
+  list-style: none !important;
+}
+.Rollsroyce {
   background: 
-  url("../public/img/Aston-Martin-car-.avif") no-repeat;
-  height: 690px;
+  url("../public/img/Rolls-Royce-car-.avif") no-repeat;
+  height: 590px;
   width: 100%;
 }

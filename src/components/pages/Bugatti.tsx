@@ -1,13 +1,13 @@
 import React from "react";
-import { Card, CardBody, CardImg, CardText, CardTitle } from "reactstrap";
+import { Card, CardBody, CardText, CardTitle } from "reactstrap";
 
 function Bugatti() {
   return (
-    <div className="bugatti">
+    <div>
       <Card>
         <div className="bugatti"></div>
         <CardBody>
-          <CardTitle tag="h5">Bugatti car</CardTitle>
+          <CardTitle tag="h2">Bugatti car</CardTitle>
           <CardText>
             *Bugatti Automobiles est un constructeur automobile français, fondée
             en 1909 par le constructeur franco-italien Ettore Bugatti à

@@ -1,4 +1,5 @@
 import { ProSidebar, Menu, MenuItem } from "react-pro-sidebar";
+import { Link } from "react-router-dom";
 
 const Sidebar = () => {
   return (
@@ -6,17 +7,37 @@ const Sidebar = () => {
       <ProSidebar>
         <h1>The Top Cars</h1>
         <Menu iconShape="square">
-          <MenuItem>User</MenuItem>
-          <MenuItem>Aston Martin</MenuItem>
-          <MenuItem>Bentley</MenuItem>
-          <MenuItem>Bugatti</MenuItem>
-          <MenuItem>Ferrari</MenuItem>
-          <MenuItem>Lamborghini</MenuItem>
-          <MenuItem>Lotus Cars</MenuItem>
-          <MenuItem>Maserati</MenuItem>
-          <MenuItem>Mercedes Benz</MenuItem>
-          <MenuItem>Porsche</MenuItem>
-          <MenuItem>Rolls-Royce</MenuItem>
+          <MenuItem>
+            {/* <a href="astonmartin">Aston Martin</a> */}
+            <Link to="/astonmartin">Aston martin</Link>
+          </MenuItem>
+          <MenuItem>
+          <Link to="/bentley">Bentley</Link> 
+          </MenuItem>
+          <MenuItem>
+            <a href="bugatti">Bugatti</a>
+          </MenuItem>
+          <MenuItem>
+            <a href="ferrari">Ferrari</a>
+          </MenuItem>
+          <MenuItem>
+            <a href="lamborghini">Lamborghini</a>
+          </MenuItem>
+          <MenuItem>
+            <a href="lotuscars">Lotus Cars</a>
+          </MenuItem>
+          <MenuItem>
+            <a href="maserati">Maserati</a>
+          </MenuItem>
+          <MenuItem>
+            <a href="mercedesbenz">Mercedes Benz</a>
+          </MenuItem>
+          <MenuItem>
+            <a href="porsche">Porsche</a>
+          </MenuItem>
+          <MenuItem>
+            <a href="rollsroyce">Rolls-Royce</a>
+          </MenuItem>
         </Menu>
       </ProSidebar>
     </div>

@@ -1,14 +1,13 @@
 import React from "react";
-import { Card, CardBody, CardImg, CardText, CardTitle } from "reactstrap";
+import { Card, CardBody, CardText, CardTitle } from "reactstrap";
 
 function MercedesBenz() {
   return (
     <div>
       <Card>
-      <div className="mercedesbenz"></div>
-       
+
         <CardBody>
-          <CardTitle tag="h5">Mercedes Benz car</CardTitle>
+          <CardTitle tag="h2">Mercedes Benz car</CardTitle>
           <CardText>
             *Mercedes-Benz est un constructeur allemand d’automobiles premiums,
             de sport et de luxe, mais également d’autocars et de camions. Malgré

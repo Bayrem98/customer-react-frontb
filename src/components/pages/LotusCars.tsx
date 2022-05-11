@@ -1,18 +1,13 @@
 import React from "react";
-import { Card, CardBody, CardImg, CardText, CardTitle } from "reactstrap";
+import { Card, CardBody, CardText, CardTitle } from "reactstrap";
 
 function LotusCars() {
   return (
-    <div className="lotuscars">
+    <div>
       <Card>
-        <CardImg
-          alt="image"
-          src="//public/img/Lotus-car-.avif"
-          top
-          width="100%"
-        />
+        <div className="lotuscars"></div>
         <CardBody>
-          <CardTitle tag="h5">Lotus car</CardTitle>
+          <CardTitle tag="h2">Lotus car</CardTitle>
           <CardText>
             *Lotus est un constructeur automobile anglais de voitures de luxe
             sportives et de course. Il est assez rare de voir une Lotus dans la

@@ -1,18 +1,13 @@
 import React from "react";
-import { Card, CardBody, CardImg, CardText, CardTitle } from "reactstrap";
+import { Card, CardBody, CardText, CardTitle } from "reactstrap";
 
 function RollsRoyce() {
   return (
-    <div className="Rollsroyce">
+    <div>
       <Card>
-        <CardImg
-          alt="image"
-          src="//public/img/Rolls-Royce-car-.avif"
-          top
-          width="100%"
-        />
+        <div className="Rollsroyce"></div>
         <CardBody>
-          <CardTitle tag="h5">Rolls-Royce car</CardTitle>
+          <CardTitle tag="h2">Rolls-Royce car</CardTitle>
           <CardText>
             *C’est en 1904 que Rolls-Royce commença à construire ses premières
             voitures. C’est la suite de la mort de Charles Rolls en 1910, que le

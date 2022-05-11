@@ -1,18 +1,13 @@
 import React from "react";
-import { Card, CardBody, CardImg, CardText, CardTitle } from "reactstrap";
+import { Card, CardBody, CardText, CardTitle } from "reactstrap";
 
 function Porsche() {
   return (
-    <div className="porsche">
+    <div>
       <Card>
-        <CardImg
-          alt="Card image cap"
-          src="//public/img/Picture-porsche.jpeg"
-          top
-          width="100%"
-        />
+        <img src="/img/Picture-porsche.jpeg" className="porsche" />
         <CardBody>
-          <CardTitle tag="h5">Porsche Car</CardTitle>
+          <CardTitle tag="h2">Porsche Car</CardTitle>
           <CardText>
             *Comment faire un classement des marques les plus luxueuses sans y
             inclure la mondialement connue Porsche. La marque allemande offre
