@@ -35,12 +35,7 @@ body {
   width: 100%;
   object-fit: cover;
 }
-.bentley {
-  background: 
-  url("../public/img/Bentley-car.avif") no-repeat;
-  height: 490px;
-  width: 100%;
-}
+
 .bugatti {
   background: 
   url("../public/img/Bugatti.avif") no-repeat;
@@ -71,12 +66,6 @@ body {
   height: 590px;
   width: 100%;
 }
-
-  background: 
-  url("../public/img/mercedes.avif") no-repeat;
-  height: 690px;
-  width: 100%;
-}
 .porsche {
   width: 100%;
   max-width: 100%;
@@ -85,6 +74,7 @@ body {
 .pro-menu-item {
   list-style: none !important;
 }
+
 .Rollsroyce {
   background: 
   url("../public/img/Rolls-Royce-car-.avif") no-repeat;

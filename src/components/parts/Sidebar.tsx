@@ -8,35 +8,34 @@ const Sidebar = () => {
         <h1>The Top Cars</h1>
         <Menu iconShape="square">
           <MenuItem>
-            {/* <a href="astonmartin">Aston Martin</a> */}
             <Link to="/astonmartin">Aston martin</Link>
           </MenuItem>
           <MenuItem>
-          <Link to="/bentley">Bentley</Link> 
+            <Link to="/bentley">Bentley</Link>
           </MenuItem>
           <MenuItem>
-            <a href="bugatti">Bugatti</a>
+            <Link to="bugatti">Bugatti</Link>
           </MenuItem>
           <MenuItem>
-            <a href="ferrari">Ferrari</a>
+            <Link to="ferrari">Ferrari</Link>
           </MenuItem>
           <MenuItem>
-            <a href="lamborghini">Lamborghini</a>
+            <Link to="lamborghini">Lamborghini</Link>
           </MenuItem>
           <MenuItem>
-            <a href="lotuscars">Lotus Cars</a>
+            <Link to="lotuscars">Lotus Cars</Link>
           </MenuItem>
           <MenuItem>
-            <a href="maserati">Maserati</a>
+            <Link to="maserati">Maserati</Link>
           </MenuItem>
           <MenuItem>
-            <a href="mercedesbenz">Mercedes Benz</a>
+            <Link to="mercedesbenz">Mercedes Benz</Link>
           </MenuItem>
           <MenuItem>
-            <a href="porsche">Porsche</a>
+            <Link to="porsche">Porsche</Link>
           </MenuItem>
           <MenuItem>
-            <a href="rollsroyce">Rolls-Royce</a>
+            <Link to="rollsroyce">Rolls-Royce</Link>
           </MenuItem>
         </Menu>
       </ProSidebar>

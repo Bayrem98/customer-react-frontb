@@ -5,7 +5,7 @@ function AstonMartin() {
   return (
     <div>
       <Card>
-        <div className="astonmartin"></div>
+        <img src="/img/Aston-Martin-car-.avif" />
         <CardBody>
           <CardTitle tag="h2">Aston Martin</CardTitle>
           <CardText>

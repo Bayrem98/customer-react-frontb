@@ -16,9 +16,9 @@ import {
 
 export default function Navbard() {
   const logout = () => {
-    localStorage.setItem('email', ""); 
-    document.location.href = "/"
-  }
+    localStorage.setItem("email", "");
+    document.location.href = "/";
+  };
   return (
     <div>
       <div>
@@ -55,16 +55,15 @@ export default function Navbard() {
                     </DropdownMenu>
                   </UncontrolledDropdown>
                 </Nav>
-                { 
-                  (localStorage.getItem("email") !== "") ?
+                {localStorage.getItem("email") !== "" ? (
                   <DropdownToggle>
-                     {localStorage.getItem("email") }
+                    {localStorage.getItem("email")}
 
-                     <button onClick={()=> logout()}>logout</button>
-                </DropdownToggle>
-                  : 
-                  <Link to="/login">Login</Link>
-                }
+                    <button onClick={() => logout()}>logout</button>
+                  </DropdownToggle>
+                ) : (
+                  <Link to="/Login">Login</Link>
+                )}
               </Collapse>
             </Navbar>
           </div>
