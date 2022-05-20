@@ -59,10 +59,10 @@ export default function Navbard() {
                   <DropdownToggle>
                     {localStorage.getItem("email")}
 
-                    <button onClick={() => logout()}>logout</button>
+                    <button onClick={() => logout()}>Logout</button>
                   </DropdownToggle>
                 ) : (
-                  <Link to="/Login">Login</Link>
+                  <Link to="/login">Login</Link>
                 )}
               </Collapse>
             </Navbar>

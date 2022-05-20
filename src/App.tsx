@@ -6,11 +6,12 @@ import Login from "./components/Login";
 
 function App() {
   return (
-    //<Routes>
-    // <Route path="/dashboard" element={<Dashboard />} />
-    // <Route path="/" element={<Login />} />
-    // </Routes>
-    <Dashboard />
+    <Routes>
+      <Route path="/dashboard" element={<Dashboard />} />
+      <Route path="/" element={<Login />} />
+    </Routes>
+    //<Dashboard />
+    //<Login />
   );
 }
 export default App;
