@@ -5,23 +5,22 @@ function Lamborghini() {
   return (
     <div>
       <Card>
-        <div className="lamborghini"></div>
+        <img src="/img/lamborghini.avif" />
         <CardBody>
-          <CardTitle tag="h2">Lamborghini car</CardTitle>
+          <CardTitle tag="h2">-Lamborghini Car-</CardTitle>
           <CardText>
-            *Vous avez entendu de l’orage alors que le ciel est dégagé ? Ne vous
-            posez plus de question, c’est surement une Lamborghini Aventador au
-            coin de la rue ! Lamborghini fut fondée en 1963 par Ferruccio
-            Lamborghini. Tout d’abord spécialisée dans la construction de
-            tracteurs dans une Italie d’après-guerre, Ferrucio Lamborghini fera
-            fortune en l’espace de 10 ans. Le groupe Lamborghini se consacrera
-            alors uniquement à la construction de voitures de luxe sportives de
-            prestige. C’est en 1998 que le groupe Volkswagen racheta
-            Lamborghini. Malgré une absence de la scène compétitive, les modèles
-            350 GT et Huracan auront réussi à se hisser aux cotés des
-            automobiles d’exception. Pour 180 000 euros vous aurez la
-            possibilité de vous rendre au travail en Lamborghini Huracan. Pour
-            une Aventador, il vous faudra débourser pas moins de 340 000 euros.
+            *Have you heard a thunderstorm when the sky is clear? Don't you ask
+            more questions, it's probably a Lamborghini Aventador at the Street
+            corner ! Lamborghini was founded in 1963 by Ferruccio Lamborghini.
+            First specialized in the construction of tractors in post-war Italy,
+            Ferrucio Lamborghini will do fortune in the space of 10 years. The
+            Lamborghini Group will devote itself then only to the construction
+            of sporty luxury cars from prestige. It was in 1998 that the
+            Volkswagen group bought Lamborghini. Despite an absence from the
+            competitive scene, the models 350 GT and Huracan will have managed
+            to rise alongside the exceptional cars. For 180,000 euros you will
+            have the possibility to go to work in a Lamborghini Huracan. For an
+            Aventador, you will have to pay no less than 340,000 euros.
           </CardText>
         </CardBody>
       </Card>

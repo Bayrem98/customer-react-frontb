@@ -7,19 +7,18 @@ function AstonMartin() {
       <Card>
         <img src="/img/Aston-Martin-car-.avif" />
         <CardBody>
-          <CardTitle tag="h2">Aston Martin</CardTitle>
+          <CardTitle tag="h2">-Aston Martin Car-</CardTitle>
           <CardText>
-            *Comment ne pas connaitre cette marque Britannique largement mise en
-            avant dans les films de James Bond. En 1913, le pilote Lionel Martin
-            confectionna une voiture afin de participer à la course d’Aston
-            Clinton dont il fut le vainqueur en 1914. La fusion des deux noms
-            donna “Aston Martin”. Le logo vient quand a lui du dieu égyptien
-            Khépri, symbolisé par un scarabée. Aston Martin représente le mix
-            parfait entre voiture élégante et rapide. A vous de choisir votre
-            préférée entre la Aston Martin Vantage, la Rapide ou encore la DB11,
-            descendante de la DB5 qui fut le premier modèle à apparaitre dans
-            James Bond Goldfinger en 1964. Simple précision, votre Aston Martin
-            ne tirera malheureusement pas de missiles sur les méchants.
+            *How not to know this British brand widely put in before in James
+            Bond films. In 1913, pilot Lionel Martin made a car to participate
+            in the Aston race Clinton, of which he was the winner in 1914. The
+            merger of the two names gave “Aston Martin”. The logo comes when it
+            comes from the Egyptian god Khepri, symbolized by a beetle. Aston
+            Martin represents the mix perfect between elegant and fast car. It's
+            up to you to choose your preferred between the Aston Martin Vantage,
+            the Rapide or the DB11, descendant of the DB5 which was the first
+            model to appear in James Bond Goldfinger in 1964. Simple precision,
+            your Aston Martin unfortunately won't fire missiles at bad guys.
           </CardText>
         </CardBody>
       </Card>

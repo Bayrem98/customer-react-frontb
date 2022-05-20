@@ -5,21 +5,20 @@ function LotusCars() {
   return (
     <div>
       <Card>
-        <div className="lotuscars"></div>
+        <img src="/img/Lotus-car-.avif" />
         <CardBody>
-          <CardTitle tag="h2">Lotus car</CardTitle>
+          <CardTitle tag="h2">-Lotus Car-</CardTitle>
           <CardText>
-            *Lotus est un constructeur automobile anglais de voitures de luxe
-            sportives et de course. Il est assez rare de voir une Lotus dans la
-            rue, mais lorsqu’on en voit une, on est sûr de la remarquer ! Lotus
-            propose des modèles sportifs compacts, comme la fameuse Lotus Elise
-            ou encore la Lotus Evora. Il existe également de nombreux modèles
-            très prisés par les collectionneurs comme la Lotus Excel, tout droit
-            sortie d’une série de science-fiction des années 80 et qui ressemble
-            beaucoup à la Pontiac (K.I.T.T.) de K2000 ! Ses phares escamotables
-            lui donnent une touche old school. Lotus Cars est basé sur
-            l’ancienne base aérienne de la RAF, Hethel située à Northfolk. Nous
-            avons d’ailleurs déjà emmené des passagers visiter Lotus Cars !
+            *Lotus is an English luxury car manufacturer sports and racing. It
+            is quite rare to see a Lotus in the street, but when you see one,
+            you are sure to notice it! Lotus offers compact sports models, such
+            as the famous Lotus Elise or the Lotus Evora. There are also many
+            models highly prized by collectors like the Lotus Excel, straight
+            out of an 80s sci-fi series that looks like much to the Pontiac
+            (K.I.T.T.) of K2000! Its retractable headlights give it an old
+            school touch. Lotus Cars is based on the former RAF air base, Hethel
+            located in Northfolk. We have already taken passengers to visit
+            Lotus Cars !
           </CardText>
         </CardBody>
       </Card>

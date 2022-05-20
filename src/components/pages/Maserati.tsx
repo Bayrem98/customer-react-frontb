@@ -5,19 +5,18 @@ function Maserati() {
   return (
     <div>
       <Card>
-        <div className="maserati"></div>
+        <img src="/img/Maserati-car-.avif" />
         <CardBody>
-          <CardTitle tag="h2">-Maserati car-</CardTitle>
+          <CardTitle tag="h2">-Maserati Car-</CardTitle>
           <CardText>
-            *Ce constructeur automobile italien est spécialisé dans les voitures
-            de luxe, de sport et de courses. La marque fut fondée par les frères
-            Maserati en 1914. Son logo est un trident qui est inspiré de la
-            fontaine de Neptune de la ville de Bologne. Plusieurs fois rachetée
-            puis revendue, notamment par Citroën en 1968, Maserati fera une
-            coopération avec Chrysler avant d’être définitivement rachetée par
-            Fiat. Afin de pouvoir profiter de la qualité des voitures de sports
-            italiennes, il vous faudra tout de même débourser près de 100 000
-            euros.
+            *This Italian car manufacturer specializes in cars luxury, sports
+            and shopping. The brand was founded by the brothers Maserati in
+            1914. Its logo is a trident which is inspired by the Fountain of
+            Neptune in the city of Bologna. Many times redeemed then resold, in
+            particular by Citroën in 1968, Maserati will make a cooperation with
+            Chrysler before being definitively acquired by Fiat. In order to be
+            able to enjoy the quality of sports cars Italian, you will still
+            have to pay nearly 100,000 euros.
           </CardText>
         </CardBody>
       </Card>

@@ -7,19 +7,18 @@ function Porsche() {
       <Card>
         <img src="/img/Picture-porsche.jpeg" className="porsche" />
         <CardBody>
-          <CardTitle tag="h2">Porsche Car</CardTitle>
+          <CardTitle tag="h2">-Porsche Car-</CardTitle>
           <CardText>
-            *Comment faire un classement des marques les plus luxueuses sans y
-            inclure la mondialement connue Porsche. La marque allemande offre
-            une gamme de voitures de luxe sportives. Le modèle le plus populaire
-            est bien évidement la Porsche 911. La première génération de cette
-            gamme date de 1964. Cinquante ans plus tard, le modèle phare de la
-            marque garde toujours la même renommée et le même esthétisme. Une
-            Porsche 911 d’occasion est aujourd’hui devenu très accessible, même
-            si les modèles récents se vendent difficilement à moins de 100 000
-            euros neufs. Porsche reste donc une marque offrant des voitures
-            sportives haut de gamme, dont certains de ces modèles sont
-            relativement accessibles.
+            *How to make a ranking of the most luxurious brands without include
+            the world famous Porsche. The German brand offers a range of sporty
+            luxury cars. The most popular model is of course the Porsche 911.
+            The first generation of this range dates from 1964. Fifty years
+            later, the flagship model of the brand still retains the same
+            reputation and the same aesthetics. A Used Porsche 911 has now
+            become very accessible, even if recent models are difficult to sell
+            for less than 100,000 new euros. Porsche therefore remains a brand
+            offering cars top-of-the-range sports cars, some of which are
+            relatively accessible.
           </CardText>
         </CardBody>
       </Card>

@@ -5,25 +5,25 @@ function Ferrari() {
   return (
     <div>
       <Card>
-        <div className="ferrari"></div>
+        <img src="/img/Ferari-car.avif" />
         <CardBody>
-          <CardTitle tag="h2">Ferrari car</CardTitle>
+          <CardTitle tag="h2">-Ferrari Car-</CardTitle>
           <CardText>
-            *Ferrari, probablement la marque automobile la plus populaire et
-            reconnue du monde, est fondée en 1929 par Enzo Ferrari. Enzo était
-            lui-même un pilote de course pour Alpha Romeo lorsqu’il décida de
-            lancer la Scuderia Ferrari. Le logo vient de la mère de Francesco
-            Baracca, un pilote de l’aviation italienne qui avait peint un cheval
-            cabré sur sa carlingue. En 1947 est créée la légendaire Ferrari 125
-            S qui remportera le grand prix automobile de Rome en 1947. Tandis
-            que la Avio Costruzioni 815 produite en 1940, restée dans l’ombre de
-            la seconde guerre mondiale, participe toujours aujourd’hui à des
-            courses d’autos de collection. Plus récemment, c’est le pilote de
-            Formule 1 Michael Schumacher qui a permis de démocratiser la marque
-            entre 1996 et 2006, où il obtint 72 victoires et 5 titres mondiaux
-            sous l’étendard Ferrari. Vous pourrez faire l’acquisition d’une
-            Ferrari Portofino neuve pour la maudite somme de 200 000 euros. Les
-            prix grimpants jusqu’à 1,6 millions d’euros pour la Ferrari Monza.
+            *Ferrari, probably the most popular car brand and recognized
+            worldwide, was founded in 1929 by Enzo Ferrari. Enzo was himself a
+            racing driver for Alpha Romeo when he decided to launch the Scuderia
+            Ferrari. The logo comes from Francesco's mother Baracca, an Italian
+            air force pilot who had painted a horse prancing on his cabin. In
+            1947 the legendary Ferrari 125 was created S who won the Rome
+            automobile grand prix in 1947. While that the Avio Costruzioni 815
+            produced in 1940, remained in the shadow of the Second World War,
+            still participates today in collector car racing. More recently, it
+            is the pilot of Formula 1 Michael Schumacher who made it possible to
+            democratize the brand between 1996 and 2006, where he obtained 72
+            victories and 5 world titles under the Ferrari banner. You can
+            purchase a New Ferrari Portofino for the cursed sum of 200,000
+            euros. The prices climbing up to 1.6 million euros for the Ferrari
+            Monza.
           </CardText>
         </CardBody>
       </Card>

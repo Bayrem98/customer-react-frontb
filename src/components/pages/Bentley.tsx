@@ -7,21 +7,20 @@ function Bentley() {
       <Card>
         <img src="/img/Bentley-car.avif" />
         <CardBody>
-          <CardTitle tag="h2">Bentley car</CardTitle>
+          <CardTitle tag="h2">-Bentley Car-</CardTitle>
           <CardText>
-            *C’est maintenant que l’on va rentrer dans le vif du sujet… Bentley,
-            crée en 1919 à Crklewood, au Nord de Londres est devenue l’un des
-            marques d’automobile les plus reconnue du monde grâce à ses
-            nombreuses victoires lors du 24 Heures du Mans en 1924, 1927, 1928,
-            1929 et 1930. Des modèles proéminent témoignent de la domination
-            historique de Bentley en matière de course automobile comme la
-            Bentley 4 1/2 litre, la Bentley R Type Continental ou encore la
-            Bentley Turbo R. Aujourd’hui, Bentley propose une gamme de berlines
-            et de SUV luxueux. Pour la maudite somme de 200 000 euros, vous
-            pourrez vous offrir une Bentley Continental. Néanmoins, vous ne
-            pourrais plus avoir d’excuse pour ne pas arriver à l’heure à vos
-            rendez-vous lorsque vous conduirez ce mastodonte de 5 mètres de long
-            et de 2500 kg, propulsé par plus de 550 chevaux.
+            *Now we are going to get to the heart of the matter... Bentley,
+            created in 1919 in Crklewood, North London has become one of the
+            most recognized car brands in the world thanks to its numerous
+            victories during the 24 Hours of Le Mans in 1924, 1927, 1928, 1929
+            and 1930. Prominent models testify to the domination Bentley's
+            racing history as the Bentley 4 1/2 litre, the Bentley R Type
+            Continental or even the Bentley Turbo R. Today, Bentley offers a
+            range of sedans and luxury SUVs. For the accursed sum of 200,000
+            euros, you can afford a Bentley Continental. Nevertheless, you could
+            no longer have any excuse for not arriving on time for your meet
+            when you drive this 5 meter long behemoth and 2500 kg, powered by
+            more than 550 horsepower.
           </CardText>
         </CardBody>
       </Card>

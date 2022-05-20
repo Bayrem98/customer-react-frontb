@@ -5,27 +5,26 @@ function RollsRoyce() {
   return (
     <div>
       <Card>
-        <div className="Rollsroyce"></div>
+        <img src="/img/Rolls-Royce-car-.avif" />
         <CardBody>
-          <CardTitle tag="h2">Rolls-Royce car</CardTitle>
+          <CardTitle tag="h2">-Rolls-Royce Car-</CardTitle>
           <CardText>
-            *C’est en 1904 que Rolls-Royce commença à construire ses premières
-            voitures. C’est la suite de la mort de Charles Rolls en 1910, que le
-            premier des deux R du logo « RR » passe du rouge au noir. Le
-            deuxième en fera autant à la mort du second fondateur, Frederick
-            Royce. C’est en 1914 que l’entreprise se reconverti dans la
-            fabrication de moteurs d’avions notamment lors de la première et
-            seconde guerre mondiale. Nationalisé en 1971, Rolls-Royce se
-            divisera finalement en deux entités, la division automobile sous le
-            nom de Rolls-Royce Motors et la division aéronautique, Rolls-Royce
-            plc. Aujourd’hui, Rolls-Royce Motor Cars est détenue par le
-            constructeur allemand BMW et est reconnue pour produire les
-            meilleures et les plus luxueuses voitures de monde. C’est en 2016
-            qu’est lancée la Rolls Royce Cullinan pour un prix de 344 000 euros,
-            en devenant le SUV le plus cher du monde, bien devant la Bentley
-            Bentyaga (217 800 euros). Vous pouvez également investir dans une
-            Rolls Royce Silver Cloud III, un modèle de collection pour quelques
-            200 000 Euros !
+            *It was in 1904 that Rolls-Royce began to build its first cars. It
+            was following the death of Charles Rolls in 1910 that the first of
+            the two Rs in the "RR" logo changes from red to black. the second
+            will do the same on the death of the second founder, Frederick
+            Royce. It was in 1914 that the company converted to the manufacture
+            of aircraft engines, particularly during the first and second World
+            War. Nationalized in 1971, Rolls-Royce will eventually divide into
+            two entities, the automotive division under the name of Rolls-Royce
+            Motors and the aerospace division, Rolls-Royce plc. Today,
+            Rolls-Royce Motor Cars is owned by the German manufacturer BMW and
+            is renowned for producing the best and most luxurious cars in the
+            world. It's in 2016 that the Rolls Royce Cullinan was launched for a
+            price of 344,000 euros, by becoming the most expensive SUV in the
+            world, well ahead of the Bentley Bentyaga (217,800 euros). You can
+            also invest in a Rolls Royce Silver Cloud III, a collector's item
+            for a few €200,000 !
           </CardText>
         </CardBody>
       </Card>

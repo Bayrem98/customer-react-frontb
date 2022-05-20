@@ -5,25 +5,24 @@ function Bugatti() {
   return (
     <div>
       <Card>
-        <div className="bugatti"></div>
+        <img src="/img/Bugatti.avif" />
         <CardBody>
-          <CardTitle tag="h2">Bugatti car</CardTitle>
+          <CardTitle tag="h2">-Bugatti Car-</CardTitle>
           <CardText>
-            *Bugatti Automobiles est un constructeur automobile français, fondée
-            en 1909 par le constructeur franco-italien Ettore Bugatti à
-            Molsheim, en Alsace. Ces automobiles étaient cotées pour leur beauté
-            et leurs performances sur circuit. Les Bugattis qui marquèrent
-            l’histoire furent la Type 30 Grand Prix, la Type 41 Royale, la Type
-            57 Atlantique et la Type 55 sports car. Après la mort de Ettore
-            Bugatti en 1947, la marque fit faillite avant d’être remise sur les
-            rails en 1950 par un riche entrepreneur italien. La marque est
-            aujourd’hui détenue par le groupe Volkswagen AG. Envie de faire
-            tourner des têtes quand vous roulez en centre-ville ? Cette voiture
-            est faite pour vous ! Il sera néanmoins bien difficile de trouver
-            une Bugatti Veyron pour moins d’un million d’euros. Quant à la
-            Chiron, elle vous reviendra à 2,5 millions d’euros, mais vous
-            assurera une accélération unique au monde avec pas moins de 1500
-            chevaux sous le capot.
+            *Bugatti Automobiles is a French automobile manufacturer, founded in
+            1909 by the Franco-Italian manufacturer Ettore Bugatti in Molsheim,
+            in Alsace. These automobiles were rated for their beauty and their
+            performance on the circuit. The Bugattis that made their mark
+            history were the Type 30 Grand Prix, the Type 41 Royale, the Type 57
+            Atlantique and the Type 55 sports car. After Ettore's death Bugatti
+            in 1947, the brand went bankrupt before being put back on the rails
+            in 1950 by a wealthy Italian entrepreneur. The brand is today owned
+            by the Volkswagen AG group. Want to do turn heads when you ride
+            downtown? This car is made for you! However, it will be very
+            difficult to find a Bugatti Veyron for less than a million euros.
+            About the Chiron, it will cost you 2.5 million euros, but you will
+            ensure a unique acceleration in the world with no less than 1500
+            horses under the hood.
           </CardText>
         </CardBody>
       </Card>

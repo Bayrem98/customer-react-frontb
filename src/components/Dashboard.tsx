@@ -11,6 +11,7 @@ import Bugatti from "./pages/Bugatti";
 import Ferrari from "./pages/Ferrari";
 import Lamborghini from "./pages/Lamborghin";
 import RollsRoyce from "./pages/RollsRoyce";
+import Home from "./pages/Home";
 
 const Dashboard = () => {
   return (
@@ -24,7 +25,7 @@ const Dashboard = () => {
         </div>
         <div className="col-12 col-md-9">
           <Routes>
-            <Route path="/dashboard" element={<AstonMartin />} />
+            <Route path="/" element={<Home />} />
             <Route path="/astonmartin" element={<AstonMartin />} />
             <Route path="/bentley" element={<Bentley />} />
             <Route path="/bugatti" element={<Bugatti />} />
